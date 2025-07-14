@@ -8,7 +8,7 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/TheTekig?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+
         />
 <a href="https://github.com/TheTekig?tab=followers">
         <img 
@@ -32,5 +32,20 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 ### **`Status`**
+  <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+  />
+
+</p>
 
