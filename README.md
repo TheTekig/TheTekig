@@ -8,7 +8,7 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-
+            src="https://custom-icon-badges.demolab.com/github/stars/TheTekig?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
 <a href="https://github.com/TheTekig?tab=followers">
         <img 
