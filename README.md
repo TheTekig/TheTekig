@@ -1,8 +1,8 @@
 ## 🧑🏽‍💻 Diogo Teodoro Lamas
 ***`Desenvolvedor Iniciante`***
 ### **`🛠️Sobre mim🛠️`**
-    Atualmente estudante de Sistemas de Informação no IFES - Campus Colatina, 
-    iniciei minha jornada na programação há cerca de 6 meses e venho evoluindo constantemente,
+       Atualmente estudante de Sistemas de Informação no IFES - Campus Colatina. 
+    Iniciei minha jornada na programação há cerca de 6 meses e venho evoluindo constantemente;
     sempre buscando aprender, criar projetos práticos e evoluir profissionalmente rumo a uma carreira sólida em tecnologia.
  <a href="https://github.com/TheTekig?tab=repositories&sort=stargazers">
         <img 
@@ -25,8 +25,7 @@ alt="GitHub Stats"
 height="30" 
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.
-svg"
-/>
+svg"/>
 
 <img 
     alt="GitHub Stats" 
