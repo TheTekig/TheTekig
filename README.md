@@ -2,7 +2,7 @@
 ***`Desenvolvedor Iniciante`***
 ### **`🛠️Sobre mim🛠️`**
        Atualmente estudante de Sistemas de Informação no IFES - Campus Colatina. 
-    Iniciei minha jornada na programação há cerca de 6 meses e venho evoluindo constantemente;
+    Iniciei minha jornada na programação há cerca de 8 meses e venho evoluindo constantemente;
     sempre buscando aprender, criar projetos práticos e evoluir profissionalmente rumo a uma carreira sólida em tecnologia.
  <a href="https://github.com/TheTekig?tab=repositories&sort=stargazers">
         <img 
