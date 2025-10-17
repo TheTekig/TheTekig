@@ -1,48 +1,53 @@
-## 🧑🏽‍💻 Diogo Teodoro Lamas
-***`Desenvolvedor Iniciante`***
-### **`🛠️Sobre mim🛠️`**
-       Atualmente estudante de Sistemas de Informação no IFES - Campus Colatina. 
-    Iniciei minha jornada na programação no inicio de 2025 e venho evoluindo constantemente;
-    sempre buscando aprender, criar projetos práticos e evoluir profissionalmente rumo a uma carreira sólida em tecnologia.
- <a href="https://github.com/TheTekig?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/TheTekig?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-<a href="https://github.com/TheTekig?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/TheTekig?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-<a href="https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h1 align="center">👋 Olá! Eu sou o Diogo Teodoro</h1>
 
-### **`🖥️ Estudando🖥️`**
-
-<p align="left">
-  <img height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<p align="center">
+  🎓 Estudante de Sistemas de Informação (IFES - Campus Colatina) <br>
+  💻 Desenvolvedor em formação | Foco em Engenharia de Software, Dados e IA <br>
+  🌎 Sempre aprendendo, explorando e construindo projetos práticos
 </p>
 
-### **`Status`**
-  <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
+### 🧠 Sobre mim
+- 🔭 Atualmente desenvolvendo o projeto **EUCHRONIA**, um RPG dinâmico com integração de IA (OpenAI API).
+- 🧩 Interesso-me por **Engenharia de Dados, Sistemas Escaláveis e Serviços de IA**.
+- ⚙️ Tenho experiência prática com **Python, POO, APIs REST e JSON**.
+- 🚀 Busco desafios que envolvam análise, arquitetura e resolução de problemas complexos.
+- 💬 Inglês intermediário (vivência nos EUA, Everett High School).
 
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📚 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|----------|------------|--------------|------|
+| 🎮 **EUCHRONIA** | RPG de terminal com IA e arquitetura modular (OpenAI API, JSON) | Python, APIs, POO | [Ver projeto](https://github.com/TheTekig/EUCHORNIA) |
+| 🧾 **Gerador de Currículos** | Criação e exportação de currículos com PDF automatizado | Python, JSON | [Ver projeto](https://github.com/TheTekig/GeradorCurriculos) |
+| 🧠 **Gerador de Testes com IA** | Sistema que cria testes automatizados via Pytest usando LLM | Python, OpenAI API | [Ver projeto](https://github.com/TheTekig/Gerador-de-Testes-com-IA) |
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
+---
+
+### 📫 Contato
+📧 **diogo.teodoro015@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368)  
+🐙 [GitHub](https://github.com/TheTekig)
