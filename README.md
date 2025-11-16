@@ -13,7 +13,7 @@
 - 🧩 Interesso-me por **Engenharia de Dados, Sistemas Escaláveis e Serviços de IA**.  
 - ⚙️ Tenho experiência prática com **Python, POO, APIs REST e JSON**.  
 - 🚀 Busco desafios que envolvam análise, arquitetura e resolução de problemas complexos.  
-- 💬 Inglês intermediário (vivência nos EUA – Everett High School).
+- 💬 Inglês Avançado (vivência nos EUA – Everett High School).
 
 ---
 
