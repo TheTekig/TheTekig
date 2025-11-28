@@ -49,9 +49,9 @@
 
 | Projeto | Descrição | Tecnologias | Link |
 |--------|-----------|-------------|------|
-| 🎮 **EUCHRONIA** | RPG de terminal com IA e arquitetura modular | Python, OpenAI API, POO | [Ver projeto](https://github.com/TheTekig/EUCHORNIA) |
-| 🧾 **Gerador de Currículos** | Geração e exportação automática de currículos (PDF) | Python, JSON | [Ver projeto](https://github.com/TheTekig/GeradorCurriculos) |
-| 🧠 **Gerador de Testes com IA** | Criação de testes automatizados via LLM + Pytest | Python, OpenAI API | [Ver projeto](https://github.com/TheTekig/Gerador-de-Testes-com-IA) |
+| ![🎮 **EUCHRONIA**](./Euchronia.png) | RPG de terminal com IA e arquitetura modular | Python, OpenAI API, POO | [Ver projeto](https://github.com/TheTekig/EUCHORNIA) |
+| ![🧾 **Gerador de Currículos**](./Curriculo-Generator.png) | Geração e exportação automática de currículos (PDF) | Python, JSON | [Ver projeto](https://github.com/TheTekig/GeradorCurriculos) |
+| ![🧠 **Gerador de Testes com IA**](./Ai-Test-Generator.png) | Criação de testes automatizados via LLM + Pytest | Python, OpenAI API | [Ver projeto](https://github.com/TheTekig/Gerador-de-Testes-com-IA) |
 
 ---
 
