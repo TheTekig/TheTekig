@@ -60,9 +60,9 @@
 ---
 
 
+<h3 align="center">📫 Contato</h3>
 
 <p align="center">
-  <h3>📫 Contato</h3>
   <a href="https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
