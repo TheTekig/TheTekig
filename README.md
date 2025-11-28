@@ -1,5 +1,4 @@
-<img src="banner (8).png">
-
+<img src="banner (8).png" width="100%" />
 
 <p align="center">
   🎓 Estudante de Sistemas de Informação (IFES - Campus Colatina) <br>
@@ -18,24 +17,26 @@
 - 💬 Inglês Avançado (vivência nos EUA – Everett High School).
 
 ---
-<p align="center">
-<h3> 🧰 Tecnologias e Ferramentas </h3>
-  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 
+<h3 align="center"> 🧰 Tecnologias e Ferramentas </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 </p>
 
 ---
 
-### 🚀 Estudando Atualmente
+<h3 align="center"> 🚀 Estudando Atualmente </h3>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Data%20Engineering-0078D7?style=for-the-badge&logo=databricks&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Engineering-0078D7?style=for-the-badge&logo=databricks&logoColor=white">
+</p>
 
 ---
 
@@ -60,6 +61,9 @@
 
 ### 📫 Contato
 
-<a href="https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" align="center">  
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
