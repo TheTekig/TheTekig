@@ -1,9 +1,11 @@
-<h1 align="center">👋 Olá! Eu sou o Diogo Teodoro</h1>
+<img src="banner(8).png">
+
 
 <p align="center">
   🎓 Estudante de Sistemas de Informação (IFES - Campus Colatina) <br>
   💻 Desenvolvedor em formação | Foco em Engenharia de Software, Dados e IA <br>
   🌎 Sempre aprendendo, explorando e construindo projetos práticos
+  ![](https://komarev.com/ghpvc/?username=TheTekig-github-TheTekig&color=blueviolet)
 </p>
 
 ---
@@ -18,12 +20,12 @@
 ---
 
 ### 🧰 Tecnologias e Ferramentas
-
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
+</p>
 ---
 
 ### 🚀 Estudando Atualmente
@@ -55,6 +57,6 @@
 ---
 
 ### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368)    📧***diogo.teodoro015@gmail.com***
-
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368)    
+</p>
