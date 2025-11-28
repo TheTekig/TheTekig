@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Estudante de Sistemas de Informação (IFES - Campus Colatina) <br>
   💻 Desenvolvedor em formação | Foco em Engenharia de Software, Dados e IA <br>
-  🌎 Sempre aprendendo, explorando e construindo projetos práticos
+  🌎 Sempre aprendendo, explorando e construindo projetos práticos <br>
   <img src="https://komarev.com/ghpvc/?username=TheTekig-github-TheTekig&color=blueviolet">
 </p>
 
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 
 </p>
+
 ---
 
 ### 🚀 Estudando Atualmente
@@ -58,6 +59,7 @@
 ---
 
 ### 📫 Contato
-<a href="https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368" align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">  
+
+<a href="https://www.linkedin.com/in/diogo-teodoro-dias-lamas-8099b6368">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" align="center">  
 </a>
