@@ -47,7 +47,7 @@
 
 <!-- PROJETOS EM DESTAQUE - GITHUB PREMIUM STYLE -->
 
-  <h2 style="text-align: center; font-size: 2rem; margin-bottom: 25px;">
+  <h2 style="text-align: center; font-size: 2rem; margin-bottom: 25px;"; align="center">
     📚 Projetos em Destaque
   </h2>
 
