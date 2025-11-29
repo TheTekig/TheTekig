@@ -45,13 +45,92 @@
 
 ---
 
-## 📚 Projetos em Destaque
+<!-- Projetos em Destaque -->
+<section id="projetos" style="margin-top: 40px;">
+  <h2>📚 Projetos em Destaque</h2>
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| ![🎮 **EUCHRONIA**](./Euchronia.png) | RPG de terminal com IA e arquitetura modular | Python, OpenAI API, POO | [Ver projeto](https://github.com/TheTekig/EUCHORNIA) |
-| ![🧾 **Gerador de Currículos**](./Curriculo-Generator.png) | Geração e exportação automática de currículos (PDF) | Python, JSON | [Ver projeto](https://github.com/TheTekig/GeradorCurriculos) |
-| ![🧠 **Gerador de Testes com IA**](./Ai-Test-Generator.png) | Criação de testes automatizados via LLM + Pytest | Python, OpenAI API | [Ver projeto](https://github.com/TheTekig/Gerador-de-Testes-com-IA) |
+  <div style="
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: center;
+  ">
+
+  <!-- Projeto 1 -->
+  <div style="
+    width: 300px;
+    background: #1a1a1a;
+    border-radius: 12px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+  ">
+    <img src="./Euchronia.png" alt="Euchronia" style="width: 100%; border-radius: 8px;">
+    <h3 style="margin-top: 12px;">🎮 EUCHRONIA</h3>
+    <p>RPG de terminal com IA e arquitetura modular.</p>
+    <p><strong>Tecnologias:</strong> Python, OpenAI API, POO</p>
+    <a href="https://github.com/TheTekig/EUCHORNIA" target="_blank" style="
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 14px;
+      background: #6a0dad;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+    ">Ver projeto</a>
+  </div>
+
+  <!-- Projeto 2 -->
+  <div style="
+    width: 300px;
+    background: #1a1a1a;
+    border-radius: 12px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+  ">
+    <img src="./Curriculo-Generator.png" alt="Gerador de Currículos" style="width: 100%; border-radius: 8px;">
+    <h3 style="margin-top: 12px;">🧾 Gerador de Currículos</h3>
+    <p>Geração e exportação automática de currículos em PDF.</p>
+    <p><strong>Tecnologias:</strong> Python, JSON</p>
+    <a href="https://github.com/TheTekig/GeradorCurriculos" target="_blank" style="
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 14px;
+      background: #6a0dad;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+    ">Ver projeto</a>
+  </div>
+
+  <!-- Projeto 3 -->
+  <div style="
+    width: 300px;
+    background: #1a1a1a;
+    border-radius: 12px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+  ">
+    <img src="./Ai-Test-Generator.png" alt="Gerador de Testes com IA" style="width: 100%; border-radius: 8px;">
+    <h3 style="margin-top: 12px;">🧠 Gerador de Testes com IA</h3>
+    <p>Criação de testes automatizados via LLM + Pytest.</p>
+    <p><strong>Tecnologias:</strong> Python, OpenAI API</p>
+    <a href="https://github.com/TheTekig/Gerador-de-Testes-com-IA" target="_blank" style="
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 14px;
+      background: #6a0dad;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+    ">Ver projeto</a>
+  </div>
+
+  </div>
+</section>
+
 
 ---
 
