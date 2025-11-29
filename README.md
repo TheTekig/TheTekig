@@ -47,158 +47,89 @@
 
 <!-- PROJETOS EM DESTAQUE - GITHUB PREMIUM STYLE -->
 
-<section id="projetos" style="margin-top: 40px;">
   <h2 style="text-align: center; font-size: 2rem; margin-bottom: 25px;">
     📚 Projetos em Destaque
   </h2>
 
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 22px;
-    padding: 10px;
-  ">
+<table style="width:100%; border-collapse: collapse;">
+<tr>
+  <th style="padding: 12px; border-bottom: 2px solid #8a2be2;">Projeto</th>
+  <th style="padding: 12px; border-bottom: 2px solid #8a2be2;">Descrição</th>
+  <th style="padding: 12px; border-bottom: 2px solid #8a2be2;">Tecnologias</th>
+  <th style="padding: 12px; border-bottom: 2px solid #8a2be2;">Link</th>
+</tr>
 
-  <!-- CARD 1 -->
-  <div style="
-    background: rgba(255,255,255,0.05);
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 16px;
-    padding: 20px;
-    backdrop-filter: blur(6px);
-    transition: 0.25s ease;
-  " 
-  onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; 
-               this.style.borderColor='rgba(138,43,226,0.6)'"
-  onmouseout="this.style.transform='none'; 
-              this.style.borderColor='rgba(255,255,255,0.08)'">
+<!-- Projeto 1 -->
+<tr>
+  <td style="padding: 12px; text-align: center;">
+    <img src="./Euchronia.png" width="130" style="border-radius: 8px;"><br>
+    <strong>🎮 EUCHRONIA</strong>
+  </td>
 
-  <img src="./Euchronia.png" alt="Euchronia" style="
-    width: 100%; 
-    border-radius: 12px;
-    box-shadow: 0 0 12px rgba(0,0,0,0.4);
-  ">
-  
-  <h3 style="margin-top: 14px; font-size: 1.3rem;">🎮 EUCHRONIA</h3>
+  <td style="padding: 12px;">
+    RPG de terminal com IA e arquitetura modular.
+  </td>
 
-  <p style="opacity: 0.85;">RPG de terminal com IA e arquitetura modular.</p>
+  <td style="padding: 12px;">
+    Python<br>OpenAI API<br>POO
+  </td>
 
-  <p>
-    <strong>Tecnologias:</strong><br>
-    Python • OpenAI API • POO
-  </p>
+  <td style="padding: 12px; text-align: center;">
+    <a href="https://github.com/TheTekig/EUCHORNIA" target="_blank"
+      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
+      Ver projeto
+    </a>
+  </td>
+</tr>
 
-  <a href="https://github.com/TheTekig/EUCHORNIA" target="_blank" style="
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 16px;
-    background: linear-gradient(135deg, #7b2cbf, #9d4edd);
-    color: white;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: 0.25s;
-  "
-  onmouseover="this.style.filter='brightness(1.2)'"
-  onmouseout="this.style.filter='none'">
-    Ver projeto →
-  </a>
-  </div>
+<!-- Projeto 2 -->
+<tr>
+  <td style="padding: 12px; text-align: center;">
+    <img src="./Curriculo-Generator.png" width="130" style="border-radius: 8px;"><br>
+    <strong>🧾 Gerador de Currículos</strong>
+  </td>
 
-  <!-- CARD 2 -->
-  <div style="
-    background: rgba(255,255,255,0.05);
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 16px;
-    padding: 20px;
-    backdrop-filter: blur(6px);
-    transition: 0.25s ease;
-  " 
-  onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; 
-               this.style.borderColor='rgba(138,43,226,0.6)'"
-  onmouseout="this.style.transform='none'; 
-              this.style.borderColor='rgba(255,255,255,0.08)'">
+  <td style="padding: 12px;">
+    Geração e exportação automática de currículos em PDF.
+  </td>
 
-  <img src="./Curriculo-Generator.png" alt="Gerador Currículos" style="
-    width: 100%; 
-    border-radius: 12px;
-    box-shadow: 0 0 12px rgba(0,0,0,0.4);
-  ">
-  
-  <h3 style="margin-top: 14px; font-size: 1.3rem;">🧾 Gerador de Currículos</h3>
+  <td style="padding: 12px;">
+    Python<br>JSON
+  </td>
 
-  <p style="opacity: 0.85;">Geração e exportação automática de currículos (PDF).</p>
+  <td style="padding: 12px; text-align: center;">
+    <a href="https://github.com/TheTekig/GeradorCurriculos" target="_blank"
+      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
+      Ver projeto
+    </a>
+  </td>
+</tr>
 
-  <p>
-    <strong>Tecnologias:</strong><br>
-    Python • JSON
-  </p>
+<!-- Projeto 3 -->
+<tr>
+  <td style="padding: 12px; text-align: center;">
+    <img src="./Ai-Test-Generator.png" width="130" style="border-radius: 8px;"><br>
+    <strong>🧠 Gerador de Testes com IA</strong>
+  </td>
 
-  <a href="https://github.com/TheTekig/GeradorCurriculos" target="_blank" style="
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 16px;
-    background: linear-gradient(135deg, #7b2cbf, #9d4edd);
-    color: white;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: 0.25s;
-  "
-  onmouseover="this.style.filter='brightness(1.2)'"
-  onmouseout="this.style.filter='none'">
-    Ver projeto →
-  </a>
-  </div>
+  <td style="padding: 12px;">
+    Criação de testes automatizados via LLM + Pytest.
+  </td>
 
-  <!-- CARD 3 -->
-  <div style="
-    background: rgba(255,255,255,0.05);
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 16px;
-    padding: 20px;
-    backdrop-filter: blur(6px);
-    transition: 0.25s ease;
-  " 
-  onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; 
-               this.style.borderColor='rgba(138,43,226,0.6)'"
-  onmouseout="this.style.transform='none'; 
-              this.style.borderColor='rgba(255,255,255,0.08)'">
+  <td style="padding: 12px;">
+    Python<br>OpenAI API
+  </td>
 
-  <img src="./Ai-Test-Generator.png" alt="Gerador de Testes IA" style="
-    width: 100%; 
-    border-radius: 12px;
-    box-shadow: 0 0 12px rgba(0,0,0,0.4);
-  ">
-  
-  <h3 style="margin-top: 14px; font-size: 1.3rem;">🧠 Gerador de Testes com IA</h3>
+  <td style="padding: 12px; text-align: center;">
+    <a href="https://github.com/TheTekig/Gerador-de-Testes-com-IA" target="_blank"
+      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
+      Ver projeto
+    </a>
+  </td>
+</tr>
 
-  <p style="opacity: 0.85;">Criação de testes automatizados via LLM + Pytest.</p>
+</table>
 
-  <p>
-    <strong>Tecnologias:</strong><br>
-    Python • OpenAI API
-  </p>
-
-  <a href="https://github.com/TheTekig/Gerador-de-Testes-com-IA" target="_blank" style="
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 16px;
-    background: linear-gradient(135deg, #7b2cbf, #9d4edd);
-    color: white;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: 0.25s;
-  "
-  onmouseover="this.style.filter='brightness(1.2)'"
-  onmouseout="this.style.filter='none'">
-    Ver projeto →
-  </a>
-  </div>
-
-  </div>
-</section>
 
 
 
