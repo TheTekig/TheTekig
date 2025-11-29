@@ -51,7 +51,7 @@
     📚 Projetos em Destaque
   </h2>
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse;"; align="center">
 <tr>
   <th style="padding: 12px; border-bottom: 2px solid #8a2be2;">Projeto</th>
   <th style="padding: 12px; border-bottom: 2px solid #8a2be2;">Descrição</th>
