@@ -63,7 +63,6 @@
 <tr>
   <td style="padding: 12px; text-align: center;">
     <img src="./Euchronia.png" width="130" style="border-radius: 8px;"><br>
-    <strong>🎮 EUCHRONIA</strong>
   </td>
 
   <td style="padding: 12px;">
@@ -86,7 +85,6 @@
 <tr>
   <td style="padding: 12px; text-align: center;">
     <img src="./Curriculo-Generator.png" width="130" style="border-radius: 8px;"><br>
-    <strong>🧾 Gerador de Currículos</strong>
   </td>
 
   <td style="padding: 12px;">
@@ -109,7 +107,6 @@
 <tr>
   <td style="padding: 12px; text-align: center;">
     <img src="./Ai-Test-Generator.png" width="130" style="border-radius: 8px;"><br>
-    <strong>🧠 Gerador de Testes com IA</strong>
   </td>
 
   <td style="padding: 12px;">
