@@ -8,6 +8,7 @@
   <strong>Estudante de Sistemas de Informação — IFES (Campus Colatina)</strong><br>
   Desenvolvedor em formação • Foco em Engenharia de Software, Dados e IA <br>
   Sempre aprendendo, explorando e construindo projetos práticos <br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=TheTekig&color=blueviolet" />
 </p>
 
