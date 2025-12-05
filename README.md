@@ -135,10 +135,9 @@
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=transparent"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&layout=donut-vertical" />
-</p>
+![TheTekig's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&layout=donut)
+
 
 ---
 
