@@ -137,18 +137,6 @@
 
 <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
-
-> 📦 246.7 kB Used in GitHub's Storage 
- > 
-> 🏆 541 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
