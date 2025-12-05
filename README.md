@@ -212,14 +212,6 @@ C                        1 repo              ██░░░░░░░░░�
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![TheTekig's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&layout=donut)
-
-
----
-
 ## 📫 Contato
 
 <p align="center">
