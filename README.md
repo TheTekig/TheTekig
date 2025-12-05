@@ -136,6 +136,78 @@
 ## 📈 Estatísticas de Código
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 246.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 541 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                338 commits         ████████████████░░░░░░░░░   62.48 % 
+🌆 Daytime                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌃 Evening                104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Wednesday                110 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   176 commits         ████████░░░░░░░░░░░░░░░░░   32.53 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Sunday                   54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             █████████████████░░░░░░░░   69.23 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/TheTekig/TheTekig/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/12/2025 14:58:35 UTC
 <!--END_SECTION:waka-->
 
 ---
