@@ -133,6 +133,13 @@
 
 ---
 
+## 📈 Estatísticas de Código
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📈 Estatísticas do GitHub
 
 ![TheTekig's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=transparent)
