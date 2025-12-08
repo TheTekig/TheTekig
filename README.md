@@ -138,13 +138,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 246.7 kB Used in GitHub's Storage 
+> 📦 246.8 kB Used in GitHub's Storage 
  > 
-> 🏆 544 Contributions in the Year 2025
+> 🏆 547 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
@@ -153,11 +155,23 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                338 commits         ████████████████░░░░░░░░░   62.13 % 
-🌆 Daytime                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-🌃 Evening                104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+🌞 Morning                339 commits         ███████████████░░░░░░░░░░   61.97 % 
+🌆 Daytime                93 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+🌃 Evening                106 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Wednesday                110 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Friday                   179 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -187,7 +201,13 @@ C                        1 repo              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 07/12/2025 18:44:36 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/TheTekig/TheTekig/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/12/2025 14:59:28 UTC
 <!--END_SECTION:waka-->
 
 ---
