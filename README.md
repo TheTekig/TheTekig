@@ -136,9 +136,7 @@
 ## 📈 Estatísticas de Código
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2049%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2059%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -152,14 +150,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                454 commits         ████████████████░░░░░░░░░   63.32 % 
-🌆 Daytime                122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-🌃 Evening                128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-```
 📅 **I'm Most Productive on Friday** 
 
 ```text
@@ -176,8 +166,6 @@ Sunday                   62 commits          ██░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
-
 💬 Programming Languages: 
 Python                   8 hrs 58 mins       ████████████████████░░░░░   79.64 % 
 JSON                     2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
@@ -207,12 +195,8 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/TheTekig/TheTekig/main/assets/bar_graph.png)
-
-
- Last Updated on 11/12/2025 14:16:46 UTC
+ Last Updated on 11/12/2025 18:52:02 UTC
 <!--END_SECTION:waka-->
 
 ---
