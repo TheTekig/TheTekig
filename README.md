@@ -126,6 +126,29 @@
   </td>
 </tr>
 
+<!-- Projeto 4 -->
+<tr>
+  <td style="padding: 12px; text-align: center;">
+    <img src="./assets//lumibanner.png" width="130" style="border-radius: 8px;"><br>
+  </td>
+
+  <td style="padding: 12px;">
+    Assistente de Cozinha!
+  </td>
+
+  <td style="padding: 12px;">
+    Python<br>OpenAI API<br>FastApi
+  </td>
+
+  <td style="padding: 12px; text-align: center;">
+    <a href="https://github.com/TheTekig/Project-Lumi" target="_blank"
+      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
+      Ver projeto
+    </a>
+  </td>
+</tr>
+
+
 </table>
 
 
