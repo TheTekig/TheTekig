@@ -16,7 +16,6 @@
 
 ## 🧠 Sobre mim
 
-- 🔭 Desenvolvendo **EUCHRONIA**, um RPG dinâmico com integração de IA.  
 - 🧩 Interesse principal em **Engenharia de Dados, Sistemas Escaláveis e IA aplicada**.  
 - ⚙️ Experiência prática com **Python, APIs REST, JSON e POO**.  
 - 🚀 Amo arquitetura, análise e resolução de problemas complexos.  
