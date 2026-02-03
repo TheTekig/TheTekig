@@ -184,6 +184,8 @@ C                        1 repo              ██░░░░░░░░░�
  Last Updated on 03/01/2026 18:47:51 UTC
 <!--END_SECTION:waka-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=transparent)
+
 ---
 
 ## 📫 Contato
