@@ -156,33 +156,9 @@
 
 ## 📈 Estatísticas de Código
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 254.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             █████████████████░░░░░░░░   69.23 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-
-
-
-
- Last Updated on 03/01/2026 18:47:51 UTC
-<!--END_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=TheTekig&theme=tokyonight)
 
 
 ---
