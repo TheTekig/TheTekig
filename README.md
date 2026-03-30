@@ -150,6 +150,27 @@
   </td>
 </tr>
 
+<!-- Projeto 5 -->
+<tr>
+  <td style="padding: 12px; text-align: center;">
+    <img src="./assets//TimeHuntbanner.png" width="130" style="border-radius: 8px;"><br>
+  </td>
+
+  <td style="padding: 12px;">
+    Jogo Desonvolvido na Unity
+  </td>
+
+  <td style="padding: 12px;">
+    Unity<br>C#<br>UnityAssets
+  </td>
+
+  <td style="padding: 12px; text-align: center;">
+    <a href="https://github.com/TheTekig/TIME-HUNT-UNITYGAME" target="_blank"
+      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
+      Ver projeto
+    </a>
+  </td>
+</tr>
 
 </table>
 
