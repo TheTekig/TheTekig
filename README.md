@@ -153,7 +153,7 @@
 <!-- Projeto 5 -->
 <tr>
   <td style="padding: 12px; text-align: center;">
-    <img src="./assets//TimeHuntbanner.png" width="130" style="border-radius: 8px;"><br>
+    <img src="./assets/TimeHuntbanner.png" width="130" style="border-radius: 8px;"><br>
   </td>
 
   <td style="padding: 12px;">
