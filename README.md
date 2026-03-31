@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/Whisper-STT-FF4B4B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
+  <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp"/>
   
 </p>
 
