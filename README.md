@@ -89,28 +89,6 @@
 <!-- Projeto 2 -->
 <tr>
   <td style="padding: 12px; text-align: center;">
-    <img src="./Curriculo-Generator.png" width="130" style="border-radius: 8px;"><br>
-  </td>
-
-  <td style="padding: 12px;">
-    Geração e exportação automática de currículos em PDF.
-  </td>
-
-  <td style="padding: 12px;">
-    Python<br>JSON
-  </td>
-
-  <td style="padding: 12px; text-align: center;">
-    <a href="https://github.com/TheTekig/GeradorCurriculos" target="_blank"
-      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
-      Ver projeto
-    </a>
-  </td>
-</tr>
-
-<!-- Projeto 3 -->
-<tr>
-  <td style="padding: 12px; text-align: center;">
     <img src="./Ai-Test-Generator.png" width="130" style="border-radius: 8px;"><br>
   </td>
 
@@ -130,7 +108,7 @@
   </td>
 </tr>
 
-<!-- Projeto 4 -->
+<!-- Projeto 3 -->
 <tr>
   <td style="padding: 12px; text-align: center;">
     <img src="./assets//lumibanner.png" width="130" style="border-radius: 8px;"><br>
@@ -152,7 +130,7 @@
   </td>
 </tr>
 
-<!-- Projeto 5 -->
+<!-- Projeto 4 -->
 <tr>
   <td style="padding: 12px; text-align: center;">
     <img src="./assets/TimeHuntbanner.png" width="130" style="border-radius: 8px;"><br>
