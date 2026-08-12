@@ -159,11 +159,23 @@
 
 ---
 
-## 📈 Estatísticas de Código
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheTekig&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTekig&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=TheTekig&theme=tokyonight)
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=TheTekig&theme=tokyonight" alt="GitHub Streak"/>
+
+</div>
 
 
 ---
