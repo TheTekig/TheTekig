@@ -61,7 +61,33 @@
   <th style="padding: 12px; border-bottom: 2px solid #8a2be2;">Link</th>
 </tr>
 
+
+
 <!-- Projeto 1 -->
+
+<tr>
+  <td style="padding: 12px; text-align: center;">
+    <img src="./BannerGame.png" width="130" style="border-radius: 8px;"><br>
+  </td>
+
+  <td style="padding: 12px;">
+    Jogo Desonvolvido na Unity.
+  </td>
+
+  <td style="padding: 12px;">
+    Unity<br>C#<br>UnityAssets
+  </td>
+
+  <td style="padding: 12px; text-align: center;">
+    <a href="https://github.com/TheTekig/Maintenance-Panic" target="_blank"
+      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
+      Ver projeto
+    </a>
+  </td>
+</tr>
+
+<!-- Projeto 2 -->
+
 <tr>
   <td style="padding: 12px; text-align: center;">
     <img src="./Euchronia.png" width="130" style="border-radius: 8px;"><br>
@@ -83,18 +109,18 @@
   </td>
 </tr>
 
-<!-- Projeto 2 -->
+<!-- Projeto 3 -->
 <tr>
   <td style="padding: 12px; text-align: center;">
-    <img src="./Ai-Test-Generator.png" width="130" style="border-radius: 8px;"><br>
+    <img src="./StackCityIcon.png" width="130" style="border-radius: 8px;"><br>
   </td>
 
   <td style="padding: 12px;">
-    Criação de testes automatizados via LLM + Pytest.
+    Jogo 3D Mobile Desonvolvido na Unity.
   </td>
 
   <td style="padding: 12px;">
-    Python<br>OpenAI API
+    Unity<br>C#<br>UnityAssets
   </td>
 
   <td style="padding: 12px; text-align: center;">
@@ -105,7 +131,7 @@
   </td>
 </tr>
 
-<!-- Projeto 3 -->
+<!-- Projeto 4 -->
 <tr>
   <td style="padding: 12px; text-align: center;">
     <img src="./assets//lumibanner.png" width="130" style="border-radius: 8px;"><br>
@@ -127,27 +153,6 @@
   </td>
 </tr>
 
-<!-- Projeto 4 -->
-<tr>
-  <td style="padding: 12px; text-align: center;">
-    <img src="./BannerGame.png" width="130" style="border-radius: 8px;"><br>
-  </td>
-
-  <td style="padding: 12px;">
-    Jogo Desonvolvido na Unity
-  </td>
-
-  <td style="padding: 12px;">
-    Unity<br>C#<br>UnityAssets
-  </td>
-
-  <td style="padding: 12px; text-align: center;">
-    <a href="https://github.com/TheTekig/Maintenance-Panic" target="_blank"
-      style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
-      Ver projeto
-    </a>
-  </td>
-</tr>
 
 </table>
 
