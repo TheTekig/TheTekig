@@ -133,7 +133,7 @@
 <!-- Projeto 4 -->
 <tr>
   <td style="padding: 12px; text-align: center;">
-    <img src="./assets/TimeHuntbanner.png" width="130" style="border-radius: 8px;"><br>
+    <img src="./BannerGame.png" width="130" style="border-radius: 8px;"><br>
   </td>
 
   <td style="padding: 12px;">
@@ -145,7 +145,7 @@
   </td>
 
   <td style="padding: 12px; text-align: center;">
-    <a href="https://github.com/TheTekig/TIME-HUNT-UNITYGAME" target="_blank"
+    <a href="https://github.com/TheTekig/Maintenance-Panic" target="_blank"
       style="padding: 8px 12px; background: #8a2be2; color: white; border-radius: 6px; text-decoration: none;">
       Ver projeto
     </a>
