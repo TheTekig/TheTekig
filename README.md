@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="banner (8).png" width="100%" style="border-radius: 12px;" />
+<img src="banner (4).png" width="100%" style="border-radius: 12px;" />
 
 <br>
 
