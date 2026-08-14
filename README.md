@@ -14,36 +14,33 @@
 
 ---
 
-## 🧠 Sobre mim
+## ⛓️ Sobre mim
 
-- 🧩 Interesse principal em **Engenharia de Dados, Sistemas Escaláveis e IA aplicada**.  
-- ⚙️ Experiência prática com **Python, APIs REST, JSON e POO**.  
-- 🚀 Amo arquitetura, análise e resolução de problemas complexos.  
-- 🌎 Inglês Avançado (vivência — Everett High School, EUA).
+-  Interesse principal em **Engenharia de Dados, Sistemas Escaláveis e IA aplicada**.  
+-  Experiência prática com **Python, APIs REST, JSON e POO**.  
+-  Amo arquitetura, análise e resolução de problemas complexos.  
+-  Inglês Avançado (vivência — Everett High School, EUA).
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## ⚙️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
 </p>
 
 ---
 
-## 🚀 Estudando Atualmente
+## 💾 Estudando Atualmente
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Whisper-STT-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge&logo=csharp"/>
   
 </p>
@@ -53,7 +50,7 @@
 <!-- PROJETOS EM DESTAQUE - GITHUB PREMIUM STYLE -->
 
   <h2 style="text-align: center; font-size: 2rem; margin-bottom: 25px;"; align="center">
-    📚 Projetos em Destaque
+    📂 Projetos em Destaque
   </h2>
 
 <table style="width:100%; border-collapse: collapse;"; align="center">
@@ -159,7 +156,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📃 GitHub Statistics
 
 <div align="center">
 
